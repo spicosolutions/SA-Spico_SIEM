@@ -57,3 +57,4 @@ The upper part of the flow focuses on the risk object only and how we should be 
 
 The lower flow relates to correlation searches in Enterprise Security today where notifications are created as notables individually rather than a grouping of events.
 
+![](https://github.com/spicosolutions/SA-Spico_SIEM/blob/main/ss%20flow.png)
